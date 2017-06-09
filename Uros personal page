@@ -2,11 +2,80 @@
 <html>
 <head>
 <title>Uros Personal Page</title>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="uros.css" media="screen" />
 </head>
 
 <body>
-
+    <div class="jumbotron" height="100%"> 
+ <div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3 col-lg-2 col-sm-push-9 col-lg-push-10">
+      <nav class="navbar navbar-default navbar-fixed-side">
+        <button class="navbar">Uros </button>
+          <button class="navbar">Uros </button>
+          <button class="navbar">Uros </button>
+      </nav>
+    </div>
+    <div class="col-sm-9 col-lg-10 col-sm-pull-3 col-lg-pull-2">
+      
+    </div>
+  </div>
+</div>
+    </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+    </div>
+</div>
 </body>
 
 </html>
